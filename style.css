@@ -1,0 +1,15 @@
+.text-container {
+    background-color: aquamarine;
+}
+.text-header {
+    font-size: 45px;
+}
+.text-paragraph {
+    font-size: 20px;
+    line-height: 1em;
+    text-align: justify;
+
+}
+.button {
+text-transform: capitalize;
+}
