@@ -8,8 +8,13 @@
     font-size: 20px;
     line-height: 1em;
     text-align: justify;
+    text-indent: 1em;
 
 }
 .button {
 text-transform: capitalize;
+}
+.link{
+    text-decoration: line-through overline underline;
+    text-decoration-color: rgb(19, 248, 172);
 }
